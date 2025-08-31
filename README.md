@@ -55,5 +55,10 @@ Write your analysis report as Inference (Current waveform, RMS value)
 <img width="940" height="567" alt="image" src="https://github.com/user-attachments/assets/ef548704-4f5e-47e8-b847-4badd9cfeb07" />
 
 ## Simulation
+<img width="1920" height="1140" alt="Screenshot 2025-08-31 191653" src="https://github.com/user-attachments/assets/615017dc-087b-4e03-b56e-beab3b0d3725" />
+
 ## Output
+<img width="1920" height="1140" alt="Screenshot 2025-08-31 191541" src="https://github.com/user-attachments/assets/2b540545-6831-46c7-8cd6-78301e7072b6" />
+
 ## Result
+Thus the  uncontrolled full wave rectifier has been stimulated successfully using MATLAB and the output has been verified
